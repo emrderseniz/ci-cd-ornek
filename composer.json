@@ -1,0 +1,7 @@
+{
+  "name": "ci-cd/php-example",
+  "require": {},
+  "scripts": {
+    "test": "php index.php"
+  }
+}
